@@ -10,7 +10,7 @@ Aquí se realizan las practicas en Django que es un FrameWork-Marco de trabajo U
 - 8 Seleccionar interprete de Python --> Presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
 - 10 Instalar FrameWork Django --> python -m pip install django
-- 11 Crear el proyecto --> python django-admin startproject cbtis1285J1123 .
+- 11 Crear el proyecto --> python django-admin startproject cbtis1285J1123 . / python -m django startproject p_cbtis .
 - 12 Ejecutar el servidor --> python manage.py runserver
 - 13 Realizar migracion --> python manage.py migrate
 - 14 Vuelve a ejecutar el servidor
