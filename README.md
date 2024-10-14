@@ -15,6 +15,10 @@ Aquí se realizan las practicas en Django que es un FrameWork-Marco de trabajo U
 - 13 Realizar migracion --> python manage.py migrate
 - 14 Vuelve a ejecutar el servidor
 python .\manage.py startapp cbtis_app
+python manage.py makemigrations primero al eliminar lo siguiente
 
-
+eliminar 
+pycache
+initial
+db.sqlite3
 - ![image](https://github.com/user-attachments/assets/9beee933-4df0-4e85-8fe4-23920ce26bcd)
