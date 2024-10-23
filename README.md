@@ -5,7 +5,7 @@ Aquí se realizan las practicas en Django que es un FrameWork-Marco de trabajo U
 - 3 Link de referencia: --> https://code.visualstudio.com/docs/python/tutorial-django
 - 4 Abrir terminal Vs Code
 - 5 Verificar que este instalado Python --> python --version 
-- 6 Crear entorno virtual --> py -3 -m venv .venv
+- 6 Crear entorno virtual --> py -3 -m venv .venv / python -m virtualenv .venvaviones
 - 7 Activar entorno virtual --> .venv\scripts\activate.bat
 - 8 Seleccionar interprete de Python --> Presione F1
 - 9 Actualizar pip --> python -m pip install --upgrade pip
