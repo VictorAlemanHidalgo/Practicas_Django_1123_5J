@@ -22,3 +22,7 @@ pycache
 initial
 db.sqlite3
 - ![image](https://github.com/user-attachments/assets/9beee933-4df0-4e85-8fe4-23920ce26bcd)
+- ![image](https://github.com/user-attachments/assets/cce68840-fd8a-4602-9263-1f9fd16c8353)
+- ![image](https://github.com/user-attachments/assets/d7939f6e-e06f-48ff-9a6d-5ff95af4030b)
+- pip install Django
+- ![image](https://github.com/user-attachments/assets/b950f3a8-f892-4c98-b4c6-01afbf9f550d)
